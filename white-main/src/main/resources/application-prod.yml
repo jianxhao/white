@@ -1,0 +1,15 @@
+#服务配置
+server:
+  port: 8005
+
+# Mysql数据库
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/fate_gear?autoReconnect=true&useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=CONVERT_TO_NULL&useSSL=false
+#    username: root
+#    password: 577103498a
+#  redis:
+#    host: localhost
+#    port: 6379
+#    password:
