@@ -2,8 +2,5 @@
 server:
   max-http-header-size: 10240
 
-# mybatisplus 配置
-mybatis-plus:
-  configuration:
-    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
 

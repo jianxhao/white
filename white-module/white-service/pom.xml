@@ -20,7 +20,7 @@
 
         <dependency>
             <groupId>com.white.exchange</groupId>
-            <artifactId>white-dto</artifactId>
+            <artifactId>white-common</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
     </dependencies>

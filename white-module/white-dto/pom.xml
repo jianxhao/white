@@ -11,5 +11,12 @@
 
     <artifactId>white-dto</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.white.exchange</groupId>
+            <artifactId>white-pojo</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>
